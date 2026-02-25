@@ -5,18 +5,18 @@
     "abbreviation": "UW",
     "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": "<b style='color:#cc2a1f;'>null</b>",
-    "primaryBrandColor": "<b style='color:#cc2a1f;'>null</b>",
-    "buttonColor": "<b style='color:#cc2a1f;'>null</b>",
-    "buttonTextColor": "<b style='color:#cc2a1f;'>null</b>",
-    "logo": "<b style='color:#cc2a1f;'>null</b>",
-    "cobranded_logo": "<b style='color:#cc2a1f;'>null</b>",
+    "primaryBrandColor": "#32006E",
+    "buttonColor": "#32006E",
+    "buttonTextColor": "#fff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/7b8f98c383bf405aaf2540f0261a6b51-uw.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/7b8f98c383bf405aaf2540f0261a6b51-uw.png",
     "partner_id": "0014T00000ZzSnjQAF",
     "programName": "UW Global Career Accelerator",
     "termsandConditionsPolicy": "https://www.washington.edu/online/terms/",
     "registrationMessage": "Registration is now open.",
     "credits": "4 UW credits",
-    "startDate": "<b style='color:#cc2a1f;'>null</b>",
-    "endDate": "<b style='color:#cc2a1f;'>null</b>"
+    "startDate": "May 30",
+    "endDate": "June 12"
   },
   {
     "item": "about",
@@ -29,7 +29,7 @@
     "programFee": "<b style='color:#cc2a1f;'>null</b>",
     "seasonYear": "<b style='color:red;'>null</b>",
     "term": "<b style='color:#cc2a1f;'>null</b>",
-    "season": "<b style='color:#cc2a1f;'>null</b>",
+    "season": "Spring",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -47,8 +47,8 @@
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
     "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
-    "startDate": "<b style='color:#cc2a1f;'>null</b>",
-    "endDate": "<b style='color:#cc2a1f;'>null</b>"
+    "startDate": "May 30",
+    "endDate": "June 12"
   },
   {
     "item": "coding-for-web",
@@ -59,8 +59,8 @@
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
     "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
-    "startDate": "<b style='color:#cc2a1f;'>null</b>",
-    "endDate": "<b style='color:#cc2a1f;'>null</b>"
+    "startDate": "May 30",
+    "endDate": "June 12"
   },
   {
     "item": "data-analytics",
@@ -71,8 +71,8 @@
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
     "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
-    "startDate": "<b style='color:#cc2a1f;'>null</b>",
-    "endDate": "<b style='color:#cc2a1f;'>null</b>"
+    "startDate": "May 30",
+    "endDate": "June 12"
   },
   {
     "item": "coding-for-data",
@@ -83,8 +83,8 @@
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
     "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
-    "startDate": "<b style='color:#cc2a1f;'>null</b>",
-    "endDate": "<b style='color:#cc2a1f;'>null</b>"
+    "startDate": "May 30",
+    "endDate": "June 12"
   },
   {
     "item": "career-rotation",
@@ -95,8 +95,8 @@
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
     "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
-    "startDate": "<b style='color:#cc2a1f;'>null</b>",
-    "endDate": "<b style='color:#cc2a1f;'>null</b>"
+    "startDate": "May 30",
+    "endDate": "June 12"
   },
   {
     "item": "reserve-a-seat",
