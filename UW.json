@@ -4,12 +4,12 @@
     "schoolname": "University of Washington - Seattle",
     "abbreviation": "UW",
     "genericProgramName": "The Global Career Accelerator",
-    "secondaryBrandColor": null,
-    "primaryBrandColor": null,
-    "buttonColor": null,
-    "buttonTextColor": null,
-    "logo": null,
-    "cobranded_logo": null,
+    "secondaryBrandColor": "<b style='color:#cc2a1f;'>null</b>",
+    "primaryBrandColor": "<b style='color:#cc2a1f;'>null</b>",
+    "buttonColor": "<b style='color:#cc2a1f;'>null</b>",
+    "buttonTextColor": "<b style='color:#cc2a1f;'>null</b>",
+    "logo": "<b style='color:#cc2a1f;'>null</b>",
+    "cobranded_logo": "<b style='color:#cc2a1f;'>null</b>",
     "partner_id": "0014T00000ZzSnjQAF",
     "programName": "UW Global Career Accelerator",
     "termsandConditionsPolicy": "https://www.washington.edu/online/terms/",
@@ -24,12 +24,12 @@
     "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": "1410 NE Campus Parkway\r\nSeattle, WA 98195",
     "abbreviation": "UW",
-    "phone": "null",
+    "phone": "<b style='color:#cc2a1f;'>null</b>",
     "credits": "4 UW credits",
-    "programFee": "null",
-    "seasonYear": "null",
-    "term": "null",
-    "season": "null",
+    "programFee": "<b style='color:#cc2a1f;'>null</b>",
+    "seasonYear": "<b style='color:red;'>null</b>",
+    "term": "<b style='color:#cc2a1f;'>null</b>",
+    "season": "<b style='color:#cc2a1f;'>null</b>",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -46,9 +46,9 @@
     "abbreviation": "UW",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
-    "seasonYear": null,
-    "startDate": null,
-    "endDate": null
+    "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
+    "startDate": "<b style='color:#cc2a1f;'>null</b>",
+    "endDate": "<b style='color:#cc2a1f;'>null</b>"
   },
   {
     "item": "coding-for-web",
@@ -58,9 +58,9 @@
     "abbreviation": "UW",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
-    "seasonYear": null,
-    "startDate": null,
-    "endDate": null
+    "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
+    "startDate": "<b style='color:#cc2a1f;'>null</b>",
+    "endDate": "<b style='color:#cc2a1f;'>null</b>"
   },
   {
     "item": "data-analytics",
@@ -70,9 +70,9 @@
     "abbreviation": "UW",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
-    "seasonYear": null,
-    "startDate": null,
-    "endDate": null
+    "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
+    "startDate": "<b style='color:#cc2a1f;'>null</b>",
+    "endDate": "<b style='color:#cc2a1f;'>null</b>"
   },
   {
     "item": "coding-for-data",
@@ -82,9 +82,9 @@
     "abbreviation": "UW",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
-    "seasonYear": null,
-    "startDate": null,
-    "endDate": null
+    "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
+    "startDate": "<b style='color:#cc2a1f;'>null</b>",
+    "endDate": "<b style='color:#cc2a1f;'>null</b>"
   },
   {
     "item": "career-rotation",
@@ -94,21 +94,21 @@
     "abbreviation": "UW",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
-    "seasonYear": null,
-    "startDate": null,
-    "endDate": null
+    "seasonYear": "<b style='color:#cc2a1f;'>null</b>",
+    "startDate": "<b style='color:#cc2a1f;'>null</b>",
+    "endDate": "<b style='color:#cc2a1f;'>null</b>"
   },
   {
     "item": "reserve-a-seat",
     "programName": "UW Global Career Accelerator",
     "registrationMessage": "Registration is now open.",
-    "phone": null,
+    "phone": "<b style='color:#cc2a1f;'>null</b>",
     "abbreviation": "UW"
   },
   {
     "item": "begin",
     "credits": "4 UW credits",
     "abbreviation": "UW",
-    "phone": null
+    "phone": "<b style='color:#cc2a1f;'>null</b>"
   }
 ]
