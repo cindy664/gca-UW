@@ -1,4 +1,114 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "University of Washington - Seattle",
+    "abbreviation": "UW",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "0014T00000ZzSnjQAF",
+    "programName": "UW Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.washington.edu/online/terms/",
+    "registrationMessage": "Registration is now open.",
+    "credits": "4 UW credits",
+    "startDate": "<b style='color:#cc2a1f;'>null</b>",
+    "endDate": "<b style='color:#cc2a1f;'>null</b>"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Washington - Seattle",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "1410 NE Campus Parkway\r\nSeattle, WA 98195",
+    "abbreviation": "UW",
+    "phone": "null",
+    "credits": "4 UW credits",
+    "programFee": "null",
+    "seasonYear": "null",
+    "term": "null",
+    "season": "null",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "4 UW credits",
+    "abbreviation": "UW",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Washington - Seattle",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UW",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Washington - Seattle",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UW",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Washington - Seattle",
+    "trackTitle": "Data Analytics Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UW",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Washington - Seattle",
+    "trackTitle": "Coding for Data Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UW",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of Washington - Seattle",
+    "trackTitle": "Career Rotation Track",
+    "credits": "4 UW credits",
+    "abbreviation": "UW",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "COMP 4000 (Fall • CRN: 19165)",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UW Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": null,
+    "abbreviation": "UW"
+  },
+  {
+    "item": "begin",
+    "credits": "4 UW credits",
+    "abbreviation": "UW",
+    "phone": null
+  }
+]
